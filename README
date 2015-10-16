@@ -123,22 +123,4 @@ project.sh - how to extract a project in the data directory
 
 === LICENSE ===
 
-In general:
-
-(C) 2013 Abram Hindle
-
-All code here is licensed under the Apache 2.0 unless otherwise specified.
-
-Furthermore if you are an academic. Cite our work! 
-
-@inproceedings{hindle2012rri,
-	Author = {Abram Hindle and Christian Bird and Thomas Zimmermann and Nachiappan Nagappan},
-	Title = {Relating Requirements to Implementation via Topic Analysis: Do Topics Extracted from Requirements Make Sense to Managers and Developers?},
-	Booktitle = {Proceedings of the 28th IEEE International Conference on Software Maintenance},
-	Year = {2012},
-	Publisher = {IEEE}
-}
-
-=== Wait how many languages? ===
-
-Uh python, ruby, perl, bash and R?
+.................. (will be added later) ..................
