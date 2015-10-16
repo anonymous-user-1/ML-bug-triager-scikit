@@ -1,0 +1,6 @@
+*.swp
+*.swo
+.git.bk
+data/*/
+data/*csv
+data/*.csv.*
